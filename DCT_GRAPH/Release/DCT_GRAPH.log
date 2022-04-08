@@ -1,0 +1,52 @@
+﻿  DCT.cpp
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\DCT.cpp(7,17): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\DCT.cpp(18,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\DCT.cpp(23,82): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\DCT.cpp(42,26): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\DCT.cpp(47,82): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+  PickableTable.cpp
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\PickableTable.cpp(15,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\PickableTable.cpp(30,41): warning C4244: аргумент: преобразование "float" в "unsigned int", возможна потеря данных
+  Plotter.cpp
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(42,34): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(62,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(63,38): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(71,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(71,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(72,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(83,33): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(90,46): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(149,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(150,38): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(158,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(158,32): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Plotter.cpp(159,27): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Slider.cpp
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Slider.cpp(37,52): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  Source.cpp
+C:\Users\Andrey\source\repos\DCT_GRAPH\DCT_GRAPH\Source.cpp(279,28): warning C4244: return: преобразование "int" в "float", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 435 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  DCT_GRAPH.vcxproj -> C:\Users\Andrey\source\repos\DCT_GRAPH\Release\DCT_GRAPH.exe
